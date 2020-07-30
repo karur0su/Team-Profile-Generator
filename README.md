@@ -12,7 +12,7 @@ The generated HTML page:
 ![Sample Generated Page](https://github.com/karur0su/Team-Profile-Generator/blob/master/screenshots/screenshotfinal.png?raw=true)
 
 ## Testing
-This program was build using class syntax and constructor functions. The function for each employee type was tested before building out the rest of the program. 
+This program was built using a class syntax and constructor functions. Functions for each employee class type was tested before building out the rest of the program. 
 
 ![Screenshot showing all tests passing based on output from Jest](https://github.com/karur0su/Team-Profile-Generator/blob/master/screenshots/tests-passed.PNG?raw=true)
 
