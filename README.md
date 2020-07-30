@@ -1,7 +1,13 @@
 # Team-Profile-Generator
 
 ## Description 
-This Node CLI builds a team-displaying HTML file for a user based on their input. The user inputs a team name, a how many members will be on their team and what their roles will be, and the program generates a static page organizing their information. 
+The Node CLI builds a team-displaying HTML file, based on user input as follows. 
+
+1)Team name. 
+2)How many members will be on a team. 
+3)What their roles will be.
+
+Then said program will generate a static page relying their information. 
 
 ## Images
 Demonstration GIF:
