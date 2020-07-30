@@ -3,11 +3,11 @@
 ## Description 
 The Node CLI builds a team-displaying HTML file, based on user input as follows. 
 
-1)Team name. 
-2)How many members will be on a team. 
-3)What their roles will be.
+ 1. Team name. 
+ 2. How many members will be on a team. 
+ 3. What their roles will be.
 
-Then said program will generate a static page relying their information. 
+Then said program will generate a static page relying information input. 
 
 ## Images
 Demonstration GIF:
