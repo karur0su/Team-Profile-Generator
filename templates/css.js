@@ -57,8 +57,8 @@ h2 {
 }
 
 .card-top {
-    background-color: rgb(228, 174, 76);
-    border: 2px solid rgb(228, 174, 76);
+    background-color: rgb(224, 224, 224);
+    border: 2px solid rgb(224, 224, 224);
     width: 246px;
     border-top-left-radius: 10px;
 }
