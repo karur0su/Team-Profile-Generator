@@ -5,7 +5,7 @@ This Node CLI builds a team-displaying HTML file for a user based on their input
 
 ## Images
 Demonstration GIF:
-![Team Profile Generator in action](demonstration-gif.gif)
+![Team Profile Generator in action](C:\Users\computer\Desktop\Projects\Team-Profile-Generator\Team-Profile-Generator-master\screenshots\demonstration-gif.gif)
 
 The generated HTML page:
 
