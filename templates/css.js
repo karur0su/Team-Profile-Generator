@@ -11,7 +11,7 @@ body {
 }
 
 .banner-bar {
-    background-color: rgba(53, 124, 109, 0.842);
+    background-color: rgba(0, 174, 239, 0.842);
     width: 100%;
     color: #ffffff;
     display: flex;
