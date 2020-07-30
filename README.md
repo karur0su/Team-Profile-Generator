@@ -14,7 +14,7 @@ The generated HTML page:
 ## Testing
 This program was build using class syntax and constructor functions. The function for each employee type was tested before building out the rest of the program. 
 
-![Screenshot showing all tests passing based on output from Jest](tests-passed.PNG)
+![Screenshot showing all tests passing based on output from Jest](https://github.com/karur0su/Team-Profile-Generator/blob/master/screenshots/tests-passed.PNG?raw=true)
 
 ## Installation 
 Run node.js and perform an npm install to bring in all necesarry node modules. The program is run with the command "node app.js"
